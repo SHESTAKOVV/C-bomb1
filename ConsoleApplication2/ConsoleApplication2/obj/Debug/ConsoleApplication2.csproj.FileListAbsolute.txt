@@ -1,0 +1,7 @@
+D:\Эдик\Programming\C# bomb1\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Эдик\Programming\C# bomb1\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Эдик\Programming\C# bomb1\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+D:\Эдик\Programming\C# bomb1\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.SuggestedBindingRedirects.cache
+D:\Эдик\Programming\C# bomb1\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+D:\Эдик\Programming\C# bomb1\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Эдик\Programming\C# bomb1\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
